@@ -1,10 +1,10 @@
 Hello Landscape Cubers!
 
-Welcome to the 1.1 update, I hope it was worth the wait!
-Check out the new skins and the new level, Ouroboros!
-You can now also make your own levels with the Sandbox!
-New Skins include: GD 1.6 Saw, Man Face, Poorly drawn Smiley by Turek
-and BANANA which is unlockable with the new level!
-1.1 Stuff in Sandbox and Rocket Skins coming in 1.2!
+Welcome to the 1.2 update! I hope you enjoy the new level
+and the penis rocket! Not much visual changes in this update
+but welcome the ROCKET to the sandbox, also the missing pad
+is in the editor now, i forgot some stuff like saws but thats
+coming in 1.21! The physics have also changed quite a bit due
+to falling that slow being a god damn crime! Enjoy :)
 
-- Canyons | 12/02/24
+- Canyons | 26/03/24
