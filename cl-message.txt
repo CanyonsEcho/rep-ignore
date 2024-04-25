@@ -1,10 +1,9 @@
 Hello Landscape Cubers!
 
-Welcome to the 1.2 update! I hope you enjoy the new level
-and the penis rocket! Not much visual changes in this update
-but welcome the ROCKET to the sandbox, also the missing pad
-is in the editor now, i forgot some stuff like saws but thats
-coming in 1.21! The physics have also changed quite a bit due
-to falling that slow being a god damn crime! Enjoy :)
+Welcome to the 1.2.1 update! I have fixed Electroman Adventures so now its not impossible,
+new black and purple colors and missing sawblade added to the editor!
+Theres a new secret level regarding a cucumber about a polish meme!
+Now theres click sound effects when pressing buttons ingame!
+Enjoy the minor update! (sorry for long wait, also my birthday is in 2 days!)
 
-- Canyons | 26/03/24
+- Canyons | 25/04/24
